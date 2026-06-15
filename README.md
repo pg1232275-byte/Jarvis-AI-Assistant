@@ -62,6 +62,16 @@ musicLibrary.py  - Music management module
 
 ![Flowchart](jarvis/jarvis_flowchart.png)
 
+## Screenshots
+
+### Listening State
+
+![Listening](jarvis%20working%20screenshot/listening.png)
+
+### Response Generation
+
+![Response](jarvis%20working%20screenshot/response.png)
+
 ## Author
 
 Prashant Gupta
