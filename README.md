@@ -54,6 +54,14 @@ musicLibrary.py  - Music management module
 * Enhanced voice interaction
 * Robotics and IoT integration
 
+## Project Architecture
+
+![Architecture](jarvis/jarvis_architecture.png)
+
+## Execution Flow
+
+![Flowchart](jarvis/jarvis_flowchart.png)
+
 ## Author
 
 Prashant Gupta
